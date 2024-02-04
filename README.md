@@ -1,2 +1,2 @@
 # MyVete-Recreation
-recreation with data structures of MyVete system
+recreation in C++ of MyVete system with data structures 
